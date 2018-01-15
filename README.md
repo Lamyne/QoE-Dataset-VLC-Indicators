@@ -16,7 +16,9 @@ parameters (QoA) that VLC video player provides as indicator.
 Creators: 
 
 -> Lamine Amour (lamine.amour@u-pec.fr) 
+
 -> Sami Souihi (sami.souihi@u-pec.fr)
+
 -> Abdelhamid Mellouk (mellouk@u-pec.fr)
 
 2- Data Set Information:
