@@ -31,8 +31,7 @@ The dataset is presented in different formats/files as follows:
 - ARF (Weka tool)
 - data (Genral format)
 
-Both files contain 17 QoE IFs and the Mean Opinion Scors (MOS)given by userss. 
-
+Both files contain 18 QoE IFs and the Mean Opinion Scors (MOS)given by userss. 
  	1)  id
 	2)  V_id-video
 	3)  V_content
@@ -61,12 +60,12 @@ Both files contain 17 QoE IFs and the Mean Opinion Scors (MOS)given by userss.
             - User's 	MOS scoe(19)		  
              
       --> Number of Instances : 
-
-      	class 1 (MOS = 1): 138  
-		    class 2 (MOS = 2): 100
-		    class 3 (MOS = 3): 103
-	    	class 4 (MOS = 4): 132
-		    class 5 (MOS = 5): 889
+      
+         	 class 1 (MOS = 1): 138  
+		 class 2 (MOS = 2): 100
+		 class 3 (MOS = 3): 103
+	    	 class 4 (MOS = 4): 132
+		 class 5 (MOS = 5): 889
 
       --> Number of Attributes 
  	 		      19
@@ -91,11 +90,11 @@ Both files contain 17 QoE IFs and the Mean Opinion Scors (MOS)given by userss.
 
 4- Related publications
 
- (a)  Lamine Amour, Sami Souihi, Said Hoceini, Abdelhamid Mellouk: An Open Source Platform for Perceived Video Quality Evaluation. Q2SWinet@MSWiM: pages 139-140. November 2015. 
+ (a) Lamine Amour, Sami Souihi, Said Hoceini, Abdelhamid Mellouk: An Open Source Platform for Perceived Video Quality Evaluation. Q2SWinet@MSWiM: pages 139-140. November 2015. 
 		
- (b)	Lamine Amour, Sami Souihi, Said Hoceini, Abdelhamid Mellouk: A Hierarchical Classification Model of QoE Influence Factors. WWIC 2015: pages 225-238, May 2015.
+ (b) Lamine Amour, Sami Souihi, Said Hoceini, Abdelhamid Mellouk: A Hierarchical Classification Model of QoE Influence Factors. WWIC 2015: pages 225-238, May 2015.
 
-(c)	Lamine Amour, Sami Souihi, Abdelhamid Mellouk: ACR-based Subjective QoE Datasets to Quantify YouTube Video Quality. QoMEX 2018: pages xxx-xxx, 2015 (Submitted).
+ (c) Lamine Amour, Sami Souihi, Abdelhamid Mellouk: ACR-based Subjective QoE Datasets to Quantify YouTube Video Quality. QoMEX 2018: pages xxx-xxx, 2015 (Submitted).
 
 
 
