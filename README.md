@@ -53,14 +53,13 @@ Both files contain 18 QoE IFs and the Mean Opinion Scors (MOS)given by userss.
      19) MOS
 	
 	--> Each variable belongs to a category of QoE Influence Factors (QoE IFs) that consists:
-	      - Video content analysis results (2 to 6)
+	      - Video content analysis results (2 to 6
 	      - VLC player indicators (QoA) (7 to 14)
-		 - Device characteristics  (QoD)(15)
-		 - User's profil (QoU) (16 to 18)	
-            - User's 	MOS scoe(19)		  
+	      - Device characteristics  (QoD)(15)
+	      - User's profil (QoU) (16 to 18)	
+              - User's MOS scoe(19)		  
              
       --> Number of Instances : 
-      
          	 class 1 (MOS = 1): 138  
 		 class 2 (MOS = 2): 100
 		 class 3 (MOS = 3): 103
@@ -71,10 +70,10 @@ Both files contain 18 QoE IFs and the Mean Opinion Scors (MOS)given by userss.
  	 		      19
 
       --> For Each Attribute:
-	All attributes are digit except, video content type (V-content)  user gender (QoU_sex) and device screen size (QoD_screen_size)
+	    All attributes are digit except, video content type (V-content)  user gender (QoU_sex) and device screen size (QoD_screen_size)
 
 	 --> NOTES: 
-      
+     
 	  - 14st (QoU_sex) User's gender.
 		   0 -> Woman
 		   1 -> man
