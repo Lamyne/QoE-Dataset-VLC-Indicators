@@ -38,25 +38,44 @@ The content of the dataset can be uploaded with differnt formats. These formats 
 - name.data : Open Document format (https://en.wikipedia.org/wiki/OpenDocument
 
 
-Both files contain 18 QoE IFs and the Mean Opinion Scors (MOS)given by userss. 
+Both files contain 18 QoE IFs and the Mean Opinion Scors (MOS)given by users. 
+
  	1)  id
+	
 	2)  V_id-video
+	
 	3)  V_content
+	
 	4)  V_norm-bitrate
+	
 	5)  V_complexity
+	
 	6)  V_complexity-class
+	
 	7)  QoA_VLCresolution
+	
 	8)  QoA_VLCcaching
+	
  	9)  QoA_VLCbitrate
+	
 	10) QoA_VLCframerate  
+	
  	11) QoA_VLCdropped
+	
 	12) QoA_VLCaudiorate
+	
  	13) QoA_VLCaudioloss
+	
  	14) QoA_BUFFERINGtime
+	
 	15) QoD_screen_size
+	
 	16) id_user
+	
 	17) QoU_age
+	
  	18) QoU_sex
+	
         19) MOS
 	
 	--> Each variable belongs to a category of QoE Influence Factors (QoE IFs) that consists:
