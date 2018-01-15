@@ -50,7 +50,7 @@ Both files contain 18 QoE IFs and the Mean Opinion Scors (MOS)given by userss.
 	16) id_user
 	17) QoU_age
  	18) QoU_sex
-     19) MOS
+         19) MOS
 	
 	--> Each variable belongs to a category of QoE Influence Factors (QoE IFs) that consists:
 	      - Video content analysis results (2 to 6
@@ -59,18 +59,18 @@ Both files contain 18 QoE IFs and the Mean Opinion Scors (MOS)given by userss.
 	      - User's profil (QoU) (16 to 18)	
               - User's MOS scoe(19)		  
              
-      --> Number of Instances : 
+       --> Number of Instances : 
          	 class 1 (MOS = 1): 138  
 		 class 2 (MOS = 2): 100
 		 class 3 (MOS = 3): 103
 	    	 class 4 (MOS = 4): 132
 		 class 5 (MOS = 5): 889
 
-      --> Number of Attributes 
+        --> Number of Attributes 
  	 		      19
 
-      --> For Each Attribute:
-	    All attributes are digit except, video content type (V-content)  user gender (QoU_sex) and device screen size (QoD_screen_size)
+         --> For Each Attribute:
+	    All attributes are digit except, video content type (V-content) user gender (QoU_sex) and device screen size (QoD_screen_size)
 
 	 --> NOTES: 
      
@@ -79,7 +79,7 @@ Both files contain 18 QoE IFs and the Mean Opinion Scors (MOS)given by userss.
 		   1 -> man
 		  	  
 	  
-	  - 19st (MOS) Mean Opinion Scroe that a tester will give 		at the end of each video view.
+	  - 19st (MOS) Mean Opinion Scroe that a tester will give at the end of each video view.
 		   5 -> Excellent
 		   4 -> Good
 		   3 -> Fair
