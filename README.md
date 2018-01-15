@@ -30,9 +30,13 @@ The geographical location of the testbed was the LiSSi laboratory (http://lab.li
 3- Attribute Information:
 
 The dataset is presented in different formats/files as follows: 
-- CSV (Microsoft)
-- ARF (Weka tool)
-- data (Genral format)
+
+The content of the dataset can be uploaded with differnt formats. These formats are: 
+
+- name.csv : Microsoft Excel 2007 file.
+- name.arff : Weka files (https://en.wikipedia.org/wiki/Weka_(machine_learning)
+- name.data : Open Document format (https://en.wikipedia.org/wiki/OpenDocument
+
 
 Both files contain 18 QoE IFs and the Mean Opinion Scors (MOS)given by userss. 
  	1)  id
