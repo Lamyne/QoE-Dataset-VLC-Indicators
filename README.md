@@ -99,7 +99,7 @@ Both files contain 18 QoE IFs and the Mean Opinion Scors (MOS) given by users.
 		 
  class 4 (MOS = 4): 132
 		 
- class 5 (MOS = 5): 889
+ class 5 (MOS = 5): 89
 
 --> Number of Attributes 
      19
