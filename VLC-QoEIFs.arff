@@ -7,7 +7,7 @@
 @attribute V-complexity numeric
 @attribute V-complexity_class numeric
 @attribute QoA_VLCresolution {144,240,360,480,720,1080}
-@attribute QoA_VLCcaching numeric
+@attribute QoA_VLCcaching {100,200,400,800,1000,2000}
 @attribute QoA_VLCbitrate numeric
 @attribute QoA_VLCframerate numeric
 @attribute QoA_VLCdropped numeric
