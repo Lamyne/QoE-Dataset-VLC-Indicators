@@ -134,8 +134,4 @@ Both files contain 18 QoE IFs and the Mean Opinion Scors (MOS) given by users.
 
 5- Citation Request:
 
-The following citation is requested if you use the dataset: 
-
-Lamine Amour, Sami Souihi, Abdelhamid Mellouk: ACR-based Subjective QoE Datasets to Quantify YouTube Video Quality. QoMEX 2018: pages xxx-xxx, 2015 (Submitted).
-
 
