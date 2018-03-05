@@ -128,9 +128,6 @@ Both files contain 18 QoE IFs and the Mean Opinion Scors (MOS) given by users.
 		
  (b) Lamine Amour, Sami Souihi, Said Hoceini, Abdelhamid Mellouk: A Hierarchical Classification Model of QoE Influence Factors. WWIC 2015: pages 225-238, May 2015.
 
- (c) Lamine Amour, Sami Souihi, Abdelhamid Mellouk: ACR-based Subjective QoE Datasets to Quantify YouTube Video Quality. QoMEX 2018: pages xxx-xxx, 2015 (Submitted).
-
-
 
 5- Citation Request:
 
