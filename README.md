@@ -17,8 +17,8 @@ The structure of the repository is as follows:
    
     
    ## Authors
-- Lamine Amour (lamine.amour@u-pec.fr) 
+- Lamine Amour (TincNet group, LiSSi Laboratory, Paris Est Créteil University) 
 
-- Sami Souihi (sami.souihi@u-pec.fr)
+- Sami Souihi (TincNet group, LiSSi Laboratory, Paris Est Créteil University)
 
-- Abdelhamid Mellouk (mellouk@u-pec.fr)
+- Abdelhamid Mellouk (TincNet group, LiSSi Laboratory, Paris Est Créteil University)
