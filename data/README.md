@@ -68,5 +68,10 @@ NO EXPRESS OR IMPLIED LICENSES TO ANY PARTY'S PATENT RIGHTS ARE GRANTED BY THIS 
 ## Authors
 
 Main developers:
-- Lamine Amour ()
+- Lamine Amour (TincNet group, LiSSi Laboratory, Paris Est Créteil University) 
+
+Contributors:
+- Sami Souihi (TincNet group, LiSSi Laboratory, Paris Est Créteil University)
+- Abdelhamid Mellouk (TincNet group, LiSSi Laboratory, Paris Est Créteil University)
+
     
