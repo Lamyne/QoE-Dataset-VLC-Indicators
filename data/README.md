@@ -13,9 +13,10 @@ years  with  few  or  no  experience  with video assessment experimentation. The
 parameters that VLC video player provides as indicator.
 
    
-   
-   ## Acknowledgement
-   If you use the proposed open dataset in your research., you must
+
+## Acknowledgement
+
+If you use the proposed open dataset in your research., you must
    
    1- Include the link to the repository.
    
@@ -28,20 +29,20 @@ year = {October 2017},
 howpublished = {\underline{ \url{https://cir.fr/qoe-dataset/xxxxxxxx}}},
 }
 
-    ## File Layout
+ ## File Layout
     
-    The subjective data is contained in the following files:
+ The subjective data is contained in the following files:
     
-    - `mos.csv`: Per-HRC subjective MOS with 95% CI, columns:
-      - `hrc-id`:
-      - `context`:	
-      - `mos`:	
-      - `sd`:	
-      - `n-tests`:
-      - `ci`:
+  - `mos.csv`: Per-HRC subjective MOS with 95% CI, columns:
+     - `hrc-id`:
+     - `context`:	
+     - `mos`:	
+     - `sd`:	
+     - `n-tests`:
+     - `ci`:
       
       
 
-    `rattings.csv`:  
+  - `rattings.csv`:  
     
     
