@@ -1,4 +1,4 @@
-HRC;bitrate_kpbs_target;coding_height;;coding_width;frame_rate
+HRC;bitrate_kpbs_target;coding_height;coding_res;coding_width;frame_rate
 HRC144;108;144;25344;176;30
 HRC240;242;240;57600;240;30
 HRC360;559;640;230400;360;30
