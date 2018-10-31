@@ -1,5 +1,13 @@
 # QoE-Dataset-VLC-Indicators
 
+
+The structure of the repository is as follows:
+
+    data: Open dataset containing one dataset with subjective scores and rattings values.
+    configs: Configurations used in the testbed
+    scripts: Utility scripts to plot charcteristics
+    
+
 This work is proposed to describe and to share a subjective  QoE  dataset  that  assess  YouTube  video  quality in  controlled  
 laboratory environment.  This  dataset  is collected  using  the  subjective  Absolute  Category  Rate  (ACR) method based
 on Mean Opinion Score (MOS) ratting score. It provides a good representative panel of various QoE Influence Factors (QoE IFs), 
