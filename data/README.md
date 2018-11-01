@@ -43,7 +43,7 @@ howpublished = {\underline{ \url{https://cir.fr/qoe-dataset/xxxxxxxx}}},
       
       
 
-  - `rattings.csv`:  
+  - `ratings.csv`:  
      - `HRC-ID`: Identifier of the HRC
      - `diplay_res`: Height of display in pixels
      - `player_caching`: VLC cach value in milliseconds
